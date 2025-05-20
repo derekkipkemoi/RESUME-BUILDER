@@ -10,6 +10,7 @@
       "Email, chat, and phone support"
     ],
     "pricing": {
+      "initial_charge": 1.30,
       "trial_period": "14 days",
       "renewal_price": 49.95,
       "billing_cycle": "every 4 weeks",
@@ -27,6 +28,7 @@
       "Easy multi-resume and cover letter builder: create a tailored resume and cover letter for each job"
     ],
     "pricing": {
+      "initial_charge": 1.60,
       "trial_period": "14 days",
       "renewal_price": 49.95,
       "billing_cycle": "every 4 weeks",
