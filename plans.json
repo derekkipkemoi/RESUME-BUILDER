@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Base Plan",
+    "features": [
+      "Unlimited resume and cover letter printing and downloading",
+      "Full access to all features and advanced tools",
+      "Save & Download in multiple formats (PDF, MS Word)",
+      "Full satisfaction or money-back guarantee anytime, no questions asked",
+      "Email, chat, and phone support"
+    ],
+    "pricing": {
+      "trial_period": "14 days",
+      "renewal_price": 49.95,
+      "billing_cycle": "every 4 weeks",
+      "currency": "USD",
+      "auto_renews": true
+    }
+  },
+  {
+    "name": "Pro Plan",
+    "features": [
+      "Unlimited resume and cover letter printing and downloading",
+      "Full access to all features and advanced tools",
+      "Save & Download in multiple formats (PDF, MS Word)",
+      "Easy multi-resume and cover letter builder: create a tailored resume and cover letter for each job"
+    ],
+    "pricing": {
+      "trial_period": "14 days",
+      "renewal_price": 49.95,
+      "billing_cycle": "every 4 weeks",
+      "currency": "USD",
+      "auto_renews": true
+    }
+  },
+  {
+    "name": "Annual Plan",
+    "features": [
+      "Unlimited resume and cover letter printing and downloading",
+      "Full access to all features and advanced tools",
+      "Save & Download in multiple formats (PDF, MS Word)",
+      "Easy multi-resume and cover letter builder: create a tailored resume and cover letter for each job",
+      "File Share with 7 Other Users",
+      "Access to dozens of professionally designed, pre-written resumes and cover letters",
+      "Full satisfaction or money-back guarantee anytime, no questions asked",
+      "Email, chat, and phone support"
+    ],
+    "pricing": {
+      "initial_charge": 299,
+      "renewal_price": 299,
+      "billing_cycle": "every year",
+      "currency": "USD",
+      "auto_renews": true
+    }
+  }
+]
