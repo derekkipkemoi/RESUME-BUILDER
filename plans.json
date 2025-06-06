@@ -12,7 +12,7 @@
     "pricing": {
       "initial_charge": 1.30,
       "trial_period": "14 days",
-      "renewal_price": 49.95,
+      "renewal_price": 8,
       "billing_cycle": "every 4 weeks",
       "currency": "USD",
       "auto_renews": true
@@ -32,7 +32,7 @@
     "pricing": {
       "initial_charge": 1.60,
       "trial_period": "14 days",
-      "renewal_price": 49.95,
+      "renewal_price": 12,
       "billing_cycle": "every 4 weeks",
       "currency": "USD",
       "auto_renews": true
@@ -52,8 +52,8 @@
       "Email, chat, and phone support"
     ],
     "pricing": {
-      "initial_charge": 299,
-      "renewal_price": 299,
+      "initial_charge": 24,
+      "renewal_price": 24,
       "billing_cycle": "every year",
       "currency": "USD",
       "auto_renews": true
